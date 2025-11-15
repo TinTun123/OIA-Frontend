@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+.program-content h1 {
+    @apply text-3xl font-bold text-red-500;
+}
+
+.program-content h2 {
+    @apply text-2xl font-semibold text-blue-500;
+}
+
+.program-content h3 {
+    @apply text-[20px] font-medium text-gray-600 border-l-4 border-[#e29d9d] pl-4 mt-12 mb-4;
+}
+
+.program-content ul {
+    @apply list-disc list-inside pl-4 py-4;
+}
+
+.form_content ul {
+    @apply list-disc list-inside pl-4 py-4;
+}
+
+block {
+    @apply text-[18px] font-semibold pl-4 border-l-4 border-gray-600 text-gray-700 my-4
+}
+
+.form_content h3 {
+ @apply text-[20px] font-semibold text-gray-600 my-4
+}
+
+.form_content ul  {
+    @apply space-y-4
+}
+.form_content img {
+    @apply lg:w-80 lg:float-right
+}
+
+.program-content  {
+    @apply text-justify;
+}
