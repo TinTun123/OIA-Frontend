@@ -10,7 +10,7 @@
 
         <!-- Optional Footer -->
         <footer class="bg-[#FFFDF6] text-center text-[10px] text-gray-600">
-            © 2025 Overseas Ayarwaddy Association
+            © 2025 Overseas Association Association
         </footer>
     </div>
 </template>
